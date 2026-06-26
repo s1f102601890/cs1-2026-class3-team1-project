@@ -1,7 +1,9 @@
 h1{
     font-size: 35px;
 }
-
+body{
+  display:flex
+}
 ul {
   list-style: none;
   margin: 0;
@@ -19,4 +21,19 @@ li a {
 li a:hover {
   background-color: #555;
   color: white;
+}
+
+.menu{
+  border:solid 3px;
+  width:200px;
+}
+
+.main_content{
+  margin-left:10px;
+  text-align: center;  
+}
+.gaiyou{
+  border:solid 3px;
+  width: 500px;
+  height:700px;
 }
