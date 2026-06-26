@@ -2,7 +2,7 @@ h1{
     font-size: 35px;
 }
 
-li a {
+ul#menu_ber{
   display: block;
   width: 60px;
   background-color: #929fa8;
